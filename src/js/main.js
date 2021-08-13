@@ -1,4 +1,4 @@
-import '../css/common.css';
+import '../css/index.css';
 const refs = {
   daysEl: document.querySelector('[data-value="days"]'),
   hoursEl: document.querySelector('[data-value="hours"]'),
